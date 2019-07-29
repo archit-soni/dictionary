@@ -1,4 +1,11 @@
 var url;
+function callIndex(x, y){
+	scrollWin(x, y);
+	getData();
+}
+function scrollWin(x, y) {
+	window.scrollBy(x, y);
+  }
 async function getData()
 {
 	document.getElementById("result").style.display="none";
