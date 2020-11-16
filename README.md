@@ -1,1 +1,1 @@
-**Try out at** architsoni.com/Dictionary
+**Try out at** https://architsoni.com/Dictionary
